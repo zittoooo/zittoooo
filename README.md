@@ -9,9 +9,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zittoooo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlxh">
-
+<!---
 [![jiholee's 42 stats](https://badge42.herokuapp.com/api/stats/jiholee?privacyEmail=true)](https://github.com/jiholee/badge42)
-
+--->
+<img align='right' src="https://badge42.herokuapp.com/api/stats/jiholee?privacyEmail=true)](https://github.com/jiholee/badge42">
 
 <!--
 **zittoooo/zittoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
