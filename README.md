@@ -27,7 +27,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zittoooo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![jiholee's 42 stats](https://badge42.vercel.app/api/v2/cl553a9sg006109mrgj2tbut5/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+<!-- [![jiholee's 42 stats](https://badge42.vercel.app/api/v2/cl553a9sg006109mrgj2tbut5/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42) -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlxh)](https://solved.ac/wlxh)
 
