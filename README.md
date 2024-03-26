@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
 
-! [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zittoooo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zittoooo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![jiholee's 42 stats](https://badge42.vercel.app/api/v2/cl553a9sg006109mrgj2tbut5/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42) -->
